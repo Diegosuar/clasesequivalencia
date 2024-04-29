@@ -1,0 +1,2 @@
+# clasesequivalencia
+Taller sobre TDD
